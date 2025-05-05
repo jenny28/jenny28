@@ -17,7 +17,7 @@ Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en au
 - JUnit  
 - TestNG  
 
-💬 ¿Conversamos?
+💬 ¿Conversamos?  
 Si quieres contactarme para hablar sobre colaboración en proyectos o solo conversar de algún tema, te dejo mis datos:
 
 LinkedIn: https://www.linkedin.com/in/jenny-huaman/
