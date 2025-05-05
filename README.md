@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hola, me puedes decir Jemmy👋
+Bienvenidos a mi perfil ✨
+Soy Gestor de Calidad con más de 6 años de experiencia, me fascina aprender todo lo relacionado con nuevas tecnologías, sobre todo con testing. 
+Les comparto proyectos y productos de prueba que me han ayudado a cumplir con los objetivosd e las pruebas.
 
-<!--
-**jenny28/jenny28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+🌱 Sobre mí
+Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en el área de sistemas, hasta que finalmente encontré mi pasión a nivel profesional.
+Sigo aprendiendo, estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y sobre estrategias.
+<--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
