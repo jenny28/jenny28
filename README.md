@@ -6,11 +6,22 @@ Les comparto proyectos y productos de prueba que me han ayudado a cumplir con lo
 🌱 Sobre mí
 Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en el área de Sistemas, hasta que finalmente encontré mi pasión a nivel profesional.  
 Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y de estrategias.
-<--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologías y herramientas
+JavaScript
+Selenium
+Java
+Karate DSL
+Jmeter
+Cypress
+JUnit
+TestNG
+
+💬 ¿Conversamos?
+Si quieres contactarme para hablar sobre colaboración en proyectos o solo conversar de algún tema, te dejo mis datos:
+
+LinkedIn: https://www.linkedin.com/in/jenny-huaman/
+
+Correo electrónico: jenny.huamano@gmail.com
+
+🎉 Gracias por visitar mi perfil
+¡No dudes en explorar mis proyectos y comunicarte conmigo! Siempre estoy con muchas ganas de aprender algo nuevo y colaborar en proyectos interesantes. 😄
