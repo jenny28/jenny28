@@ -1,5 +1,5 @@
-## Hola, me puedes decir Jenny👋/
-Bienvenidos a mi perfil ✨
+## Hola, me puedes decir Jenny👋
+Bienvenidos a mi perfil ✨  
 Soy Gestor de Calidad con más de 6 años de experiencia, me fascina aprender todo lo relacionado con nuevas tecnologías, sobre todo con testing. 
 Les comparto proyectos y productos de prueba que me han ayudado a cumplir con los objetivosd e las pruebas.
 
