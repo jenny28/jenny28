@@ -5,16 +5,16 @@ Les comparto proyectos y productos de prueba que me han ayudado a cumplir con lo
 
 🌱 Sobre mí
 Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en el área de Sistemas, hasta que finalmente encontré mi pasión a nivel profesional.  
-Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y de estrategias.
+Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y de estrategias.  
 🔧 Tecnologías y herramientas
-JavaScript
-Selenium
-Java
-Karate DSL
-Jmeter
-Cypress
-JUnit
-TestNG
+JavaScript  
+Selenium  
+Java  
+Karate DSL  
+Jmeter  
+Cypress  
+JUnit  
+TestNG  
 
 💬 ¿Conversamos?
 Si quieres contactarme para hablar sobre colaboración en proyectos o solo conversar de algún tema, te dejo mis datos:
