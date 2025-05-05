@@ -1,11 +1,11 @@
 ## Hola, me puedes decir Jenny👋
 ✨ Bienvenidos a mi perfil ✨    
 Soy Gestor de Calidad con más de 6 años de experiencia en proyectos ágiles, me fascina aprender todo lo relacionado con nuevas tecnologías, sobre todo enfocado en testing.   
-Les comparto proyectos y productos de prueba que me han ayudado a cumplir con los objetivosd e las pruebas.
+Les comparto proyectos y productos de prueba que me han ayudado a cumplir con los objetivos de las pruebas.
 
 🌱 Sobre mí
-Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en el área de sistemas, hasta que finalmente encontré mi pasión a nivel profesional.
-Sigo aprendiendo, estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y sobre estrategias.
+Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en el área de Sistemas, hasta que finalmente encontré mi pasión a nivel profesional.  
+Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y de estrategias.
 <--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
