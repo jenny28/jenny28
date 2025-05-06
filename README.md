@@ -8,14 +8,9 @@ Soy peruana. Estudié Ingeniería de Sistemas. He transitado por muchos roles en
 Sigo aprendiendo, así que estoy fortaleciendo conocimientos y experiencia en automatización de pruebas, y mi nuevo reto es llegar a ser Líder de Calidad, por ello estoy realizando cursos de habilidades blandas y de estrategias.  
 
 🔧 Tecnologías y herramientas   
-- Selenium  
-- Java
-- JavaScript 
-- Karate DSL  
-- Jmeter  
-- Cypress  
-- JUnit  
-- TestNG  
+- Herramientas para pruebas : Selenium , Java, JavaScript , Karate DSL , Cypress, JUnit, TestNG
+- Pruebas de rendimiento: Jmeter  
+- CI/CD/Cloud: Jenkins, AWS
 
 💬 ¿Conversamos?  
 Si quieres contactarme para hablar sobre colaboración en proyectos o solo conversar de algún tema, te dejo mis datos:
